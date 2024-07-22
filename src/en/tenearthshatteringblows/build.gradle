@@ -1,0 +1,8 @@
+ext {
+    extName = 'Ten Earth Shattering Blows'
+    extClass = '.TenEarthShatteringBlows'
+    extVersionCode = 1
+    isNsfw = true
+}
+
+apply from: "$rootDir/common.gradle"
